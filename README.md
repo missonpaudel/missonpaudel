@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misson Paudel</h1>
-<h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
+<h3 align="center">A passionate programmer from Nepal 🇳🇵</h3>
 <p align= "middle"> <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="missonpaudel" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missonpaudel&label=Profile%20views&color=0e75b6&style=flat" alt="missonpaudel" /> </p>
